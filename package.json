@@ -1,0 +1,24 @@
+{
+  "name": "hamburgueria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G10vanniMiranda/cardapio-hamburguer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/G10vanniMiranda/cardapio-hamburguer/issues"
+  },
+  "homepage": "https://github.com/G10vanniMiranda/cardapio-hamburguer#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
